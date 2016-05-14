@@ -2,7 +2,7 @@ Using pandas and scikit-learn for classification tasks
 
 ```
 bash
-git clone git@github.com:jseabold/depy.git
+git clone git@github.com:mediix/AI_Project.git
 cd depy
 pip install -r requirements.txt
 ipython notebook --notebook-dir=.
